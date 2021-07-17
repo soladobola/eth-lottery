@@ -1,0 +1,16 @@
+{
+  "name": "lottery-deploy",
+  "version": "1.0.0",
+  "description": "Deploying contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mladen Radojevic",
+  "license": "ISC",
+  "dependencies": {
+    "solc": "^0.4.17",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^1.4.0"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "name": "lottery-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server",
+    "dev": "nodemon server"
+  },
+  "author": "Mladen Radojevic",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "truffle-hdwallet-provider": "0.0.3",
+    "web3": "^1.4.0"
+  }
+}
